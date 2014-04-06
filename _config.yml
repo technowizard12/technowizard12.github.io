@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://technowizard12.github.io
+title: Orr Studio
+subtitle: The Portfolio and Sketchbook of Simon D. Orr
+author: Simon D. Orr
 simple_search: https://www.google.com/search
 description:
 
