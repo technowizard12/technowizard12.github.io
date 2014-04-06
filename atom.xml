@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title><![CDATA[Orr Studio]]></title>
+	<link href="http://technowizard12.github.io/atom.xml" rel="self"/>
+	<link href="http://technowizard12.github.io/"/>
+	<updated>2014-04-06T09:49:22-07:00</updated>
+	<id>http://technowizard12.github.io/</id>
+	<author>
+		<name><![CDATA[Simon D. Orr]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+</feed>
